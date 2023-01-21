@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:4.0
+ADR;TYPE=home:;;;Reinickendorf;Berlin;;Deutschland
+ADR;TYPE=work:;;Charlottenburger Str. 33a;Weißensee;Berlin;13086;Deutschland
+AGENT:https://www.linkedin/in/puls
+EMAIL;TYPE=work:alexander.puls@menzel-it.net
+KIND:individual
+NOTE:Hi!
+ORG:Menzel IT GmbH;IT
+N:;Alex;;;
+ROLE:Internship
+SOURCE:https://raw.githubusercontent.com/0vv1/vcards/main/Alex.vcf
+NAME:VCF für Alex
+TITLE:IT Administrator
+TZ:Europe/Berlin
+END:VCARD
