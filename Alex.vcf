@@ -1,9 +1,11 @@
 BEGIN:VCARD
 VERSION:4.0
 ADR;TYPE=home:;;;Reinickendorf;Berlin;;Deutschland
-ADR;TYPE=work:;;Charlottenburger Str. 33a;Weißensee;Berlin;13086;Deutschland
+ADR;TYPE=work:;;Charlottenburger Str. 33a;Weißensee;Berlin;13086;
+  Deutschland
 AGENT:https://www.linkedin/in/puls
 EMAIL;TYPE=work:alexander.puls@menzel-it.net
+KEY;MEDIATYPE=application/pgp-keys:http://pgp.mit.edu/pks/lookup?op=get&search=0x7306B8ED9B64AA81
 KIND:individual
 NOTE:Hi!
 ORG:Menzel IT GmbH;IT
