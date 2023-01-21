@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:4.0
 ADR;TYPE=home:;;;Reinickendorf;Berlin;;Deutschland
 ADR;TYPE=work:;;Charlottenburger Str. 33a;Weißensee;Berlin;13086;
-  Deutschland
+                Deutschland
 EMAIL;TYPE=work:alexander.puls@menzel-it.net
 KEY;MEDIATYPE=application/pgp-keys:
   https://raw.githubusercontent.com/0vv1/vcards/main/x.com.pgp
