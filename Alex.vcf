@@ -5,7 +5,7 @@ ADR;TYPE=work:;;Charlottenburger Str. 33a;Weißensee;Berlin;13086;
   Deutschland
 EMAIL;TYPE=work:alexander.puls@menzel-it.net
 KEY;MEDIATYPE=application/pgp-keys:
-  http://pgp.mit.edu/pks/lookup?op=get&search=0x7306B8ED9B64AA81
+  https://raw.githubusercontent.com/0vv1/vcards/main/x.com.pgp
 KIND:individual
 N:;Alex;;;
 ORG:Menzel IT GmbH;
